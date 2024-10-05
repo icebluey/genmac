@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 export PATH=$PATH:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 TZ='UTC'; export TZ
-umask 022
 
 _mac_prefix='0A:2A:33
 0A:8E:62
